@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Marine Energy Test Area"
+	"Short_Name"	"META"
+	"Facility_Type"	"demo zone"
+	"Sea"	"Bristol Channel"
+	"Continent"	"Europe"
+	"Country"	"United Kingdom"
+	"Region"	"South Pembrokeshire"
+	"Latitude"	"51.698"
+	"Longitude"	"-4.955"
+	"Estimated_Commissioning"	"2021"
+	"Website"	"https://www.meta.wales"
+	"Capacity"	"up to 30 MW per project"
+	"Major_Projects"	"<a href=""http://www.bomborawave.com/projects#pembrokeshire_wales" target="_blank">Bombora @ Pembrokeshire</a>, Ocean Wave Rower sea trials, <a href="https://bomborawave.com/latest-news/project/1-5mw-pembrokeshire-project/" target="_blank">mWave Demonstrator</a>"
+	"Image"	""
+	"tooltip"	"Marine Energy Test Area"
+	"geometry"	"POINT (-551588.07688067 6745703.10234055)"
+
+Bathymetry
+	"Band 1"	"2.5551"
+

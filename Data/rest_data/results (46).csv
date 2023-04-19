@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Tropical Tidal Testing Centre"
+	"Short_Name"	"T3C"
+	"Facility_Type"	"test site"
+	"Sea"	"Clarence Strait"
+	"Continent"	"Australia"
+	"Country"	"Australia"
+	"Region"	"Darwin, Northern Territory"
+	"Latitude"	"-12.136"
+	"Longitude"	"131.039"
+	"Estimated_Commissioning"	""
+	"Website"	"<a href=""https://ntepa.nt.gov.au/environmental-assessments/register/tropical-tidal-testing-centre" target="_blank">https://ntepa.nt.gov.au/environmental-assessments/register/tropical-tidal-testing-centre</a>"
+	"Capacity"	"3 test berths @ 11 kV, up to 15 devices in total"
+	"Major_Projects"	""
+	"Image"	""
+	"tooltip"	"<table><tr><td>Tropical Tidal Testing Centre<br />T3C</td></table>"
+	"geometry"	"POINT (14587194.75405978 -1361190.00385953)"
+
+Bathymetry
+	"Band 1"	"-8.01316"
+

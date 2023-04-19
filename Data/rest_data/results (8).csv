@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Pacific Marine Energy Center - South Energy Test Site"
+	"Short_Name"	"PMEC SETS"
+	"Facility_Type"	"test site"
+	"Sea"	"Pacific Ocean"
+	"Continent"	"North America"
+	"Country"	"USA"
+	"Region"	"near Newport, Oregon"
+	"Latitude"	"44.584"
+	"Longitude"	"-124.251"
+	"Estimated_Commissioning"	"2016"
+	"Website"	"http://nnmrec.oregonstate.edu/pmec-facilities"
+	"Capacity"	"4 grid connected test berths @ 55-70 m for single utility scale wave energy converters or small arrays. 20 MW in total."
+	"Major_Projects"	""
+	"Image"	"<img src=""img/representative/PMEC-SETS.png" />(<a href="http://nnmrec.oregonstate.edu/pmec-facilities" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>Pacific Marine Energy Center - South Energy Test Site<br /> <br />PMEC SETS</td><tr><td><img src=""img/representative/PMEC-SETS.png" /></td></tr></table>"
+	"geometry"	"POINT (-13831558.05055504 5556266.8352478)"
+
+Bathymetry
+	"Band 1"	"-72.6784"
+

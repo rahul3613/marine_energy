@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Söderfors Marine Currents Research Site"
+	"Short_Name"	"Söderfors"
+	"Facility_Type"	"test site"
+	"Sea"	"River Dalälven"
+	"Continent"	"Europe"
+	"Country"	"Sweden"
+	"Region"	"Town of Söderfors"
+	"Latitude"	"60.388"
+	"Longitude"	"17.249"
+	"Estimated_Commissioning"	"2013"
+	"Website"	"http://www.teknik.uu.se/electricity/research-areas/marine-currents/"
+	"Capacity"	"1 small scale turbine"
+	"Major_Projects"	""
+	"Image"	""
+	"tooltip"	"<table><tr><td>Söderfors Marine Currents Research Site</td><td><img src=""img/logos/UU.png" /></td></tr></table>"
+	"geometry"	"POINT (1920149.89669318 8486633.09004405)"
+
+Bathymetry
+	"Band 1"	"48"
+

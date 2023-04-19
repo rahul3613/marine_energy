@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"National Tidal Current Energy Test Station"
+	"Short_Name"	"NTCETS"
+	"Facility_Type"	"test site"
+	"Sea"	"East China Sea"
+	"Continent"	"Asia"
+	"Country"	"China"
+	"Region"	"coast of Zhoushan, Zhejiang province"
+	"Latitude"	"29.935"
+	"Longitude"	"122.199"
+	"Estimated_Commissioning"	""
+	"Website"	""
+	"Capacity"	"3 grid connected tidal current test berths with 1 MW capacity each and 6 demonstration berths"
+	"Major_Projects"	""
+	"Image"	""
+	"tooltip"	"<table><tr><td>National Tidal Current Energy Test Station<br/><br/></td><td></td><tr><td colspan=""2"></td></tr></table>"
+	"geometry"	"POINT (13603130.45544724 3495197.43282168)"
+
+Bathymetry
+	"Band 1"	"-10.2406"
+

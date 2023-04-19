@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Zhairuoshan Tidal Energy Power Demonstration Station"
+	"Short_Name"	"Zhairuoshan"
+	"Facility_Type"	"test site"
+	"Sea"	"East China Sea"
+	"Continent"	"Asia"
+	"Country"	"China"
+	"Region"	"Zhairuoshan Island"
+	"Latitude"	"29.957"
+	"Longitude"	"122.083"
+	"Estimated_Commissioning"	""
+	"Website"	"http://iczu.zju.edu.cn/english/"
+	"Capacity"	"2 structures for tidal turbine testing"
+	"Major_Projects"	"United Power Tidal Demonstration Project, <a href=""https://www.zju.edu.cn/english/2020/0511/c19573a2094935/page.htm" target="_blank">ZJU Zhairuoshan Tidal Energy Power Demonstration 1A</a>, <a href="https://www.zju.edu.cn/english/2020/0511/c19573a2094935/page.htm" target="_blank">ZJU Zhairuoshan Tidal Energy Power Demonstration 1B</a>"
+	"Image"	""
+	"tooltip"	"<table><tr><td>Zhairuoshan Tidal Energy Power Demonstration Station<br /> <br/>Zhairuoshan</td><td><img src=""" /></td></tr><tr><td colspan="2"><img src="" /></td></tr></table>"
+	"geometry"	"POINT (13590217.39451522 3498023.79104299)"
+
+Bathymetry
+	"Band 1"	"73"
+

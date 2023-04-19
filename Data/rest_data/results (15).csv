@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Bourne Tidal Test Site"
+	"Short_Name"	"BTTS"
+	"Facility_Type"	"test site"
+	"Sea"	"Cape Cod Canal"
+	"Continent"	"North America"
+	"Country"	"USA"
+	"Region"	"Cape Cod, Massachusetts"
+	"Latitude"	"41.743"
+	"Longitude"	"-70.614"
+	"Estimated_Commissioning"	"2018"
+	"Website"	"http://www.mreconewengland.org/"
+	"Capacity"	"Turbines <= 3 m and 100 kW, water velocity > 2 m/s"
+	"Major_Projects"	""
+	"Image"	""
+	"tooltip"	"<table><tr><td>Bourne Tidal Test Site<br/><br/>BTTS</td><td><img src=""img/logos/BTTS.png" /></td></tr></table>"
+	"geometry"	"POINT (-7860714.52287622 5122559.4940694)"
+
+Bathymetry
+	"Band 1"	"8"
+

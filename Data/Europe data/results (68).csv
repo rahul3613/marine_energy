@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Nissum Bredning Test Station for Wave energy"
+	"Short_Name"	"NBPB"
+	"Facility_Type"	"test site"
+	"Sea"	"Nissum Bredning"
+	"Continent"	"Europe"
+	"Country"	"Denmark"
+	"Region"	"Thy district"
+	"Latitude"	"56.692"
+	"Longitude"	"8.3457"
+	"Estimated_Commissioning"	"2000"
+	"Website"	"http://www.folkecenter.net/gb/rd/wave-energy/test_station/"
+	"Capacity"	"Scale model wave energy converter test berth"
+	"Major_Projects"	""
+	"Image"	"<img src=""img/representative/NBPB.png" />(<a href="http://www.folkecenter.net/gb/rd/wave-energy/test_station/" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>Nissum Bredning Test<br />Station for Wave energy<br /> <br />NBPB</td><td><img src=""img/logos/NBPB.png" /></td><tr><td colspan="2"><img src="img/representative/NBPB.png" /></td></tr></table>"
+	"geometry"	"POINT (929039.07431342 7697424.96924289)"
+
+Bathymetry
+	"Band 1"	"4"
+

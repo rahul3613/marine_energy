@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Korea Tidal Energy Test & Evaluation Center"
+	"Short_Name"	"K-TETEC"
+	"Facility_Type"	"test site"
+	"Sea"	"Yellow Sea"
+	"Continent"	"Asia"
+	"Country"	"South Korea"
+	"Region"	"Uldolmok"
+	"Latitude"	"34.572"
+	"Longitude"	"126.305"
+	"Estimated_Commissioning"	"2022"
+	"Website"	""
+	"Capacity"	"5 berths, 5 MW in total"
+	"Major_Projects"	""
+	"Image"	""
+	"tooltip"	""
+	"geometry"	"POINT (14060208.28464442 4105868.7016126)"
+
+Bathymetry
+	"Band 1"	"-6.99763"
+

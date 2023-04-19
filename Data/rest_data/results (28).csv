@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Fundy Ocean Research Center for Energy"
+	"Short_Name"	"FORCE"
+	"Facility_Type"	"test site"
+	"Sea"	"Bay of Fundy"
+	"Continent"	"North America"
+	"Country"	"Canada"
+	"Region"	"Black Rock, Nova Scotia"
+	"Latitude"	"45.367"
+	"Longitude"	"-64.433"
+	"Estimated_Commissioning"	"2009"
+	"Website"	"http://fundyforce.ca/"
+	"Capacity"	"Grid connected test berths for 3 in-stream tidal energy converters or 5 MW capacity in total"
+	"Major_Projects"	"AOCL @ FORCE, <a href=""http://www.blackrocktidalpower.com/" target="_blank">BRTP @ FORCE</a>, <a href="https://www.bigmoonpower.com/" target="_blank">Big Moon @ FORCE</a>, <a href="http://capesharptidal.com/" target="_blank">Cape Sharp (1)</a>, <a href="http://capesharptidal.com/" target="_blank">Cape Sharp (2)</a>, <a href="http://capesharptidal.com/" target="_blank">Cape Sharp (3)</a>, <a href="http://capesharptidal.com/" target="_blank">Cape Sharp (4)</a>, <a href="https://www.dpenergy.com/projects/canadauiscetapa/" target="_blank">HTEL @ FORCE / Uisce Tapa</a>, <a href="http://fundyforce.ca/technology/minas-ime-tocardo/" target="_blank">Minas Tidal @ FORCE</a>, <a href="https://www.dpenergy.com/projects/canadauiscetapa/" target="_blank">RFOCL @ FORCE / Uisce Tapa</a>"
+	"Image"	"<img src=""img/representative/FORCE.jpg" />(<a href="http://fundyforce.ca/visit/" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>Fundy Ocean Research Center for Energy<br /> <br />FORCE</td><td><img src=""img/logos/FORCE.png" /></td><tr><td colspan="2"><img src="img/representative/FORCE.jpg" /></td></tr></table>"
+	"geometry"	"POINT (-7172648.750283 5679484.3573283)"
+
+Bathymetry
+	"Band 1"	"-34.22"
+

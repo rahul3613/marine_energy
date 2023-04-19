@@ -1,0 +1,19 @@
+Marine energy testing facilities
+	"Test_Facility"	"National Wave Energy Test Site (Galway Bay)"
+	"Short_Name"	"Galway Bay"
+	"Facility_Type"	"test site"
+	"Sea"	"Galway Bay"
+	"Continent"	"Europe"
+	"Country"	"Ireland"
+	"Region"	"near Spiddal"
+	"Latitude"	"53.227"
+	"Longitude"	"-9.271"
+	"Estimated_Commissioning"	"2006"
+	"Website"	"http://www.smartbay.ie/"
+	"Capacity"	"Testing of 1/4 scale wave energy converters"
+	"Major_Projects"	"1:4 scale Seapower Platform sea trials"
+	"geometry"	"POINT (-1032042.99914444 7025097.65612407)"
+
+Bathymetry
+	"Band 1"	"-15.9249"
+

@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Falmouth Bay Test Site"
+	"Short_Name"	"FaBTest"
+	"Facility_Type"	"test site"
+	"Sea"	"Falmouth Bay"
+	"Continent"	"Europe"
+	"Country"	"United Kingdom"
+	"Region"	"Falmouth harbour"
+	"Latitude"	"50.11"
+	"Longitude"	"-4.992"
+	"Estimated_Commissioning"	"2012"
+	"Website"	"http://www.fabtest.com/"
+	"Capacity"	"3 wave energy converter nursery berths, no grid connection"
+	"Major_Projects"	""
+	"Image"	"<img src=""img/representative/falmouth_bay.png" />(<a href="http://www.wavehub.co.uk/information-for-developers/falmouth-bay-test-site-fabtest/" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>Falmouth Bay Test Site<br/><br/>FaB Test</td><td><img src=""img/logos/falmouth_bay.png"/></td><tr><td colspan="2"><img src="img/representative/falmouth_bay.png"/></td></tr></table>"
+	"geometry"	"POINT (-555706.89804002 6465347.74161339)"
+
+Bathymetry
+	"Band 1"	"-44.2156"
+

@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"West Anglesey Tidal Demonstration Zone"
+	"Short_Name"	"West Anglesey Tidal Demonstration Zone"
+	"Facility_Type"	"demo zone"
+	"Sea"	"Irish Sea"
+	"Continent"	"Europe"
+	"Country"	"United Kingdom"
+	"Region"	"off Holy Island"
+	"Latitude"	"53.306"
+	"Longitude"	"-4.735"
+	"Estimated_Commissioning"	""
+	"Website"	"http://morlaisenergy.com/en/"
+	"Capacity"	""
+	"Major_Projects"	"Instream Tidal Energy Research (InTER) demonstrator, <a href=""https://www.magallanesrenovables.com/" target="_blank">Morlais Magallanes GR3</a>"
+	"Image"	""
+	"tooltip"	"West Anglesey Tidal Demonstration Zone"
+	"geometry"	"POINT (-527097.78890615 7039801.44090109)"
+
+Bathymetry
+	"Band 1"	"-29.0003"
+

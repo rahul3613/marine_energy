@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Southeast National Marine Renewable Energy Center"
+	"Short_Name"	"SNMREC"
+	"Facility_Type"	"test site"
+	"Sea"	"Atlantic Ocean"
+	"Continent"	"North America"
+	"Country"	"USA"
+	"Region"	"13 miles offshore Ft. Lauderdale, Florida"
+	"Latitude"	"26.099"
+	"Longitude"	"-79.887"
+	"Estimated_Commissioning"	""
+	"Website"	"http://snmrec.fau.edu/"
+	"Capacity"	"Tidal stream test berths for small scale devices with <100 kW capacity, based on anchored buoys and work boats. No grid connection."
+	"Major_Projects"	""
+	"Image"	"<img src=""img/representative/SNMREC.jpg" />(<a href="http://snmrec.fau.edu/technology-testing/small-scale-test-berths" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>Southeast National Marine Renewable Energy Center<br/><br/>SNMREC</td><td><img src=""img/logos/SNMREC.png"/></td><tr><td colspan="2"><img src="img/representative/SNMREC.jpg"/></td></tr></table>"
+	"geometry"	"POINT (-8892980.16100224 3011347.69301647)"
+
+Bathymetry
+	"Band 1"	"-281.756"
+

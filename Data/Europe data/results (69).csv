@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Danish Wave Energy Center"
+	"Short_Name"	"DanWEC"
+	"Facility_Type"	"test site"
+	"Sea"	"North Sea"
+	"Continent"	"Europe"
+	"Country"	"Denmark"
+	"Region"	"Roshage, Hanstholm"
+	"Latitude"	"57.128"
+	"Longitude"	"8.621"
+	"Estimated_Commissioning"	"2009"
+	"Website"	"http://www.danwec.com/en/home.htm"
+	"Capacity"	"Wave energy test berth with 3 MW capacity"
+	"Major_Projects"	"Nemos @ DanWEC, <a href=""http://wavepiston.dk/#prototype" target="_blank">Wavepiston @ DanWEC</a>"
+	"Image"	"<img src=""img/representative/DanWEC.png" />(<a href="http://green.thisted.dk/2013/03/danwec-test-station-for-wave-energy/?lang=en" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>Danish Wave Energy Center<br /> <br />DanWEC</td><td><img src=""img/logos/DanWEC.png" /></td><tr><td colspan="2"><img src="img/representative/DanWEC.png" /></td></tr></table>"
+	"geometry"	"POINT (959685.33012881 7786325.88705892)"
+
+Bathymetry
+	"Band 1"	"8"
+

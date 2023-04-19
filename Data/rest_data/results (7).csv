@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Pacific Marine Energy Center - North Energy Test Site"
+	"Short_Name"	"PMEC NETS"
+	"Facility_Type"	"test site"
+	"Sea"	"Pacific Ocean"
+	"Continent"	"North America"
+	"Country"	"USA"
+	"Region"	"near Newport, Oregon"
+	"Latitude"	"44.693"
+	"Longitude"	"-124.127"
+	"Estimated_Commissioning"	"2012"
+	"Website"	"http://nnmrec.oregonstate.edu/pmec-facilities"
+	"Capacity"	"Testing of wave energy converters @ 45-55 m with average power outputs of up to 100 kW, no grid connection"
+	"Major_Projects"	"<a href=""http://azurawave.com/projects/oregon/" target="_blank">Azura @ PMEC NETS</a>"
+	"Image"	"<img src=""img/representative/PMEC-NETS.png" />(<a href="http://nnmrec.oregonstate.edu/pmec-facilities" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>Pacific Marine Energy Center - North Energy Test Site<br /> <br />PMEC NETS</td><tr><td><img src=""img/representative/PMEC-NETS.png" /></td></tr></table>"
+	"geometry"	"POINT (-13817754.43369667 5573319.41124579)"
+
+Bathymetry
+	"Band 1"	"-43.2526"
+

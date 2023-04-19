@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Korea Wave Energy Test & Evaluation Center"
+	"Short_Name"	"K-WETEC"
+	"Facility_Type"	"test site"
+	"Sea"	"Yellow Sea"
+	"Continent"	"Asia"
+	"Country"	"South Korea"
+	"Region"	"Yongsoo-ri, Hankyung-myeon, Jeju"
+	"Latitude"	"33.328"
+	"Longitude"	"126.164"
+	"Estimated_Commissioning"	"2019"
+	"Website"	""
+	"Capacity"	"5 berths with 2 MW max, 5 MW in total"
+	"Major_Projects"	"Floating Pendulum"
+	"Image"	"<img src=""img/representative/K-WETEC.png" />(<a href="">source</a>)"
+	"tooltip"	"<table><tr><td>K-WETEC - Korea Wave Energy Test & Evaluation Center</td></tr></table>"
+	"geometry"	"POINT (14044512.23644257 3938921.84427713)"
+
+Bathymetry
+	"Band 1"	"5"
+

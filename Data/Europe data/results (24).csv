@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Atlantic Marine Energy Test Site (Belmullet)"
+	"Short_Name"	"AMETS"
+	"Facility_Type"	"test site"
+	"Sea"	"Atlantic Ocean"
+	"Continent"	"Europe"
+	"Country"	"Ireland"
+	"Region"	"off Annagh Head, west of Belmullet, Mayo County"
+	"Latitude"	"54.242"
+	"Longitude"	"-10.109"
+	"Estimated_Commissioning"	""
+	"Website"	"http://www.oceanenergyireland.com/TestFacility/AMETS"
+	"Capacity"	"Grid connected full scale wave energy converter test berths, 10 MW total @ 10 kV. 2 berths @ 50 m, 2 berths @ 100 m"
+	"Major_Projects"	"<a href=""http://www.c-power.be/" target="_blank">Thornton Bank 1</a>"
+	"Image"	"<img src=""img/representative/AMETS.jpg" />(<a href="http://www.oceanenergyireland.com/TestFacility/AMETS" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>Atlantic Marine Energy Test Site<br /> <br/>AMETS</td><td><img src=""img/logos/AMETS_logo.png" /></td></tr><tr><td colspan="2"><img src="img/representative/AMETS.jpg" /></td></tr></table>"
+	"geometry"	"POINT (-1125328.7324292 7216122.07306497)"
+
+Bathymetry
+	"Band 1"	"-39.8313"
+

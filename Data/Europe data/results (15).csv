@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Islay Tidal Demonstration Zone"
+	"Short_Name"	"Islay Tidal Demonstration Zone"
+	"Facility_Type"	"demo zone"
+	"Sea"	"Atlantic Ocean"
+	"Continent"	"Europe"
+	"Country"	"United Kingdom"
+	"Region"	"Islay"
+	"Latitude"	"55.694"
+	"Longitude"	"-6.576"
+	"Estimated_Commissioning"	""
+	"Website"	""
+	"Capacity"	""
+	"Major_Projects"	""
+	"Image"	""
+	"tooltip"	"Islay Tidal Demonstration Zone"
+	"geometry"	"POINT (-732036.97145657 7497739.32270746)"
+
+Bathymetry
+	"Band 1"	"-31.9998"
+

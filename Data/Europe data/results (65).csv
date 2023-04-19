@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Tidal Technology Center Grevelingendam"
+	"Short_Name"	"TTC-GD"
+	"Facility_Type"	"test site"
+	"Sea"	"Grevelingen"
+	"Continent"	"Europe"
+	"Country"	"Netherlands"
+	"Region"	"at the Flakkeese Sluice sea defence barrier"
+	"Latitude"	"51.679"
+	"Longitude"	"4.148"
+	"Estimated_Commissioning"	"2020"
+	"Website"	"http://www.ttc-gd.com/"
+	"Capacity"	"3 test canals of 3 to 10.5 m width and 5.75 m depth for four turbines with 0.5 to 1 MW rated capacity each"
+	"Major_Projects"	""
+	"Image"	"<img src=""img/representative/TTC-GD.jpg" />(<a href="https://www.ttc-gd.com/wp-content/uploads/2018/03/Illustration-TTC-GD.jpg" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>Tidal Technology Center Grevelingendam<br /> <br/>TTC-GD</td><td><img src=""img/logos/TTC-GD_logo.png" /></td></tr><tr><td colspan="2"><img src="img/representative/TTC-GD.jpg" /></td></tr></table>"
+	"geometry"	"POINT (461753.2478105 6742291.3492824)"
+
+Bathymetry
+	"Band 1"	"-7.44306"
+

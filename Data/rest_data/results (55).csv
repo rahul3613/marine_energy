@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"National Wave Energy Test Station"
+	"Short_Name"	"NWETS"
+	"Facility_Type"	"test site"
+	"Sea"	"South China Sea"
+	"Continent"	"Asia"
+	"Country"	"China"
+	"Region"	"coast of Zhuhai, Guangdong province"
+	"Latitude"	"22.27"
+	"Longitude"	"113.621"
+	"Estimated_Commissioning"	""
+	"Website"	""
+	"Capacity"	"3 wave energy test berths with 100 kW capacity each and 6 demonstration berths"
+	"Major_Projects"	""
+	"Image"	""
+	"tooltip"	"<table><tr><td>National Wave Energy Test Station<br/><br/></td><td></td><tr><td colspan=""2"></td></tr></table>"
+	"geometry"	"POINT (12648231.86342254 2543972.97725786)"
+
+Bathymetry
+	"Band 1"	"-3.07046"
+

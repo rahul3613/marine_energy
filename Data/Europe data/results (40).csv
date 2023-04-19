@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"North Devon Tidal Demonstration Zone"
+	"Short_Name"	"North Devon Tidal Demonstration Zone"
+	"Facility_Type"	"demo zone"
+	"Sea"	"Bristol Channel"
+	"Continent"	"Europe"
+	"Country"	"United Kingdom"
+	"Region"	"North Devon"
+	"Latitude"	"51.264"
+	"Longitude"	"-3.814"
+	"Estimated_Commissioning"	""
+	"Website"	""
+	"Capacity"	""
+	"Major_Projects"	""
+	"Image"	""
+	"tooltip"	"North Devon Tidal Demonstration Zone"
+	"geometry"	"POINT (-424572.53788555 6668125.79595745)"
+
+Bathymetry
+	"Band 1"	"-10.8081"
+

@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Dutch Marine Energy Centre - Den Oever site"
+	"Short_Name"	"DMEC - Den Oever"
+	"Facility_Type"	"test site"
+	"Sea"	"Ijsselmeer"
+	"Continent"	"Europe"
+	"Country"	"Netherlands"
+	"Region"	"integrated into the Afsluitdijk, near Den Oever"
+	"Latitude"	"52.936"
+	"Longitude"	"5.045"
+	"Estimated_Commissioning"	""
+	"Website"	"http://www.dutchmarineenergy.com/dutch-test-facilities/tidal-technology/dmec"
+	"Capacity"	"Test berth with flow speeds of 1.5 to 4.5 m/s for devices of max. 10x3 m, suitable for performance, installation, survival, O&M and demonstration tests"
+	"Major_Projects"	""
+	"Image"	"<img src=""img/representative/DMEC_Den_Oever.jpg" />(<a href="http://www.dutchmarineenergy.com/images/5/2/9/c/3/529c37e937799fecda3c92bb9b2b5a8f82c23762-dmec1.jpeg" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>Dutch Marine Energy Centre - Den Oever site<br /> <br />DMEC - Den Oever</td><td><img src=""img/logos/DMEC.png" /></td><tr><td colspan="2"><img src="img/representative/DMEC_Den_Oever.jpg" /></td></tr></table>"
+	"geometry"	"POINT (561606.83105206 6971168.41554051)"
+
+Bathymetry
+	"Band 1"	"-2.79032"
+

@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Qingdao Pilot National Laboratory for Marine Science and Technology"
+	"Short_Name"	"QNLM"
+	"Facility_Type"	"test site"
+	"Sea"	"Yellow Sea"
+	"Continent"	"Asia"
+	"Country"	"China"
+	"Region"	"Shandong Province, south of Qingdao near Zhaitang Island"
+	"Latitude"	"35.634"
+	"Longitude"	"119.926"
+	"Estimated_Commissioning"	""
+	"Website"	"http://www.qnlm.ac/en/index"
+	"Capacity"	"Two grid connected wave and tidal energy converter test berths with 200 kW each"
+	"Major_Projects"	""
+	"Image"	"<img src=""img/representative/qnlm.jpg" />(<a href="http://file.qnlm.ac/qnlm/upload/20160911092609_30899/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%AE%80%E4%BB%8B%E5%9B%BE.jpg" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>Qingdao Pilot National Laboratory for Marine Science and Technology<br/><br/>QNLM</td><td><img src=""img/logos/qnlm_logo.png"/></td><tr><td colspan="2"><img src="img/representative/qnlm.jpg"/></td></tr></table>"
+	"geometry"	"POINT (13350101.25287412 4250376.50053081)"
+
+Bathymetry
+	"Band 1"	"-6.21047"
+

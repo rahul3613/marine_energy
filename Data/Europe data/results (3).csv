@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"European Marine Energy Centre"
+	"Short_Name"	"EMEC"
+	"Facility_Type"	"test site"
+	"Sea"	"North Sea"
+	"Continent"	"Europe"
+	"Country"	"United Kingdom"
+	"Region"	"Orkney Islands"
+	"Latitude"	"59.007"
+	"Longitude"	"-3.118"
+	"Estimated_Commissioning"	"2003"
+	"Website"	"http://www.emec.org.uk"
+	"Capacity"	"Wave test site (5 x 2.2 MW), Tidal test site (8 x 5 MW), wave nursery site, tidal nursery site"
+	"Major_Projects"	"<a href=""http://www.emec.org.uk/about-us/our-tidal-clients/andritz-hydro-hammerfest/" target="_blank">ANDRITZ HYDRO Hammerfest @ EMEC</a>, AW Energy @ EMEC, AWS @ EMEC, <a href="http://atlantisresourcesltd.com/projects/test-sites/emec.html" target="_blank">Atlantis Resources Corporation @ EMEC</a>, Blue Energy demo pilot plant, <a href="http://www.cefow.eu/" target="_blank">CEFOW Phase 1</a>, <a href="http://www.cefow.eu/" target="_blank">CEFOW Phase 2</a>, <a href="http://cefow.eu/" target="_blank">CEFOW Phase 3</a>, <a href="http://www.emec.org.uk/about-us/wave-clients/corpower-ocean/" target="_blank">CorPower C3 @ EMEC</a>, <a href="http://www.nautricity.com/" target="_blank">Cormat @ EMEC</a>, <a href="http://www.pelamiswave.com/our-projects/project/1/E.ON-at-EMEC" target="_blank">E.ON Pelamis P2 @ EMEC</a>, <a href="https://orbitalmarine.com/projectsites/" target="_blank">Eday (1)</a>, <a href="https://orbitalmarine.com/projectsites/" target="_blank">Eday (2)</a>, <a href="https://orbitalmarine.com/flotec/" target="_blank">FloTEC</a>, <a href="http://www.waveenergyscotland.co.uk/programmes/details/power-take-off/hidrive/" target="_blank">Hi-Drive project</a>, <a href="http://www.laminaria.be/lamwec.html" target="_blank">Laminaria @ EMEC</a>, <a href="https://www.marinepowersystems.co.uk" target="_blank">MPS @ EMEC</a>, <a href="https://www.magallanesrenovables.com/" target="_blank">Magallanes Renovables @ EMEC</a>, OE Buoy @ EMEC, <a href="http://www.emec.org.uk/about-us/wave-clients/seatricity/" target="_blank">Oceanus 1 @ EMEC</a>, Oyster 1 @ EMEC, <a href="http://www.aquamarinepower.com/projects/oyster-800-project-orkney/" target="_blank">Oyster 800 @ EMEC</a>, <a href="http://www.emec.org.uk/about-us/wave-clients/pelamis-wave-power/" target="_blank">Pelamis P1 @ EMEC</a>, <a href="http://www.scotrenewables.com/technology-development/sr2000" target="_blank">SR2000 @ EMEC</a>, <a href="http://www.scotrenewables.com/250kw-prototype/sr250-testing" target="_blank">SR250 @ EMEC</a>, <a href="http://www.pelamiswave.com/our-projects/project/1/E.ON-at-EMEC" target="_blank">ScottishPower Renewables Pelamis P2 @ EMEC</a>, Subsea Power Hub @ EMEC, <a href="http://www.tocardo.com/Project/intotidal/" target="_blank">TFS @ EMEC (InToTidal)</a>, <a href="http://www.tocardo.com/Project/intotidal/" target="_blank">UFS @ EMEC (InToTidal)</a>, <a href="http://www.emec.org.uk/about-us/wave-clients/vattenfall/" target="_blank">Vattenfall Pelamis P2 @ EMEC</a>, <a href="http://www.emec.org.uk/about-us/our-tidal-clients/voith-hydro/" target="_blank">Voith Hydro @ EMEC</a>"
+	"Image"	"<img  src=""img/representative/EMEC.png" />(<a href="http://www.waveplam.eu/page/?id=177" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>European Marine Energy Centre<br /> <br />EMEC</td><td><img src=""img/logos/EMEC.png" /></td><tr><td colspan="2"><img src="img/representative/EMEC.png" /></td></tr></table>"
+	"geometry"	"POINT (-347094.17229343 8181900.00837669)"
+
+Bathymetry
+	"Band 1"	"41"
+

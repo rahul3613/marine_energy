@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Perpetuus Tidal Energy Centre"
+	"Short_Name"	"PTEC"
+	"Facility_Type"	"demo zone"
+	"Sea"	"English Channel"
+	"Continent"	"Europe"
+	"Country"	"United Kingdom"
+	"Region"	"off St Catherine's Point, Isle of Wight"
+	"Latitude"	"50.542"
+	"Longitude"	"-1.292"
+	"Estimated_Commissioning"	""
+	"Website"	"http://perpetuustidal.com/"
+	"Capacity"	"Grid connected commercial scale tidal stream demonstration facility with 20-30 MW total capacity"
+	"Major_Projects"	"Orbital @ PTEC"
+	"Image"	"<img src=""img/representative/PTEC.jpg" />(<a href="http://perpetuustidal.com/ptec/tidal-energy-project/" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>Perpetuus Tidal Energy Centre<br/><br/>PTEC</td><td><img src=""img/logos/PTEC.png"/></td><tr><td colspan="2"><img src="img/representative/PTEC.jpg"/></td></tr></table>"
+	"geometry"	"POINT (-143824.78210491 6540675.22170709)"
+
+Bathymetry
+	"Band 1"	"-33.2181"
+

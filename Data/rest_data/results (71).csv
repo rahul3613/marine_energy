@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Northern National Ocean Energy Test Station"
+	"Short_Name"	"NNOETS"
+	"Facility_Type"	"test site"
+	"Sea"	"Yellow Sea"
+	"Continent"	"Asia"
+	"Country"	"China"
+	"Region"	"coast of Weihai, Shandong province"
+	"Latitude"	"37.506"
+	"Longitude"	"122.145"
+	"Estimated_Commissioning"	""
+	"Website"	""
+	"Capacity"	"Wave and tidal current energy converter prototype testing in real sea condition"
+	"Major_Projects"	""
+	"Image"	""
+	"tooltip"	"<table><tr><td>Northern National Ocean Energy Test Station<br/><br/></td><td></td><tr><td colspan=""2"></td></tr></table>"
+	"geometry"	"POINT (13597119.2029444 4509873.3177885)"
+
+Bathymetry
+	"Band 1"	"-5.87485"
+

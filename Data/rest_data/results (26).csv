@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Canadian Hydrokinetic Turbine Test Centre"
+	"Short_Name"	"CHTTC"
+	"Facility_Type"	"test site"
+	"Sea"	"Winnipeg River"
+	"Continent"	"North America"
+	"Country"	"Canada"
+	"Region"	"Seven-Sisters, Manitoba"
+	"Latitude"	"50.124"
+	"Longitude"	"-96.026"
+	"Estimated_Commissioning"	"2013"
+	"Website"	"http://www.chttc.ca/"
+	"Capacity"	"4 block anchors"
+	"Major_Projects"	""
+	"Image"	""
+	"tooltip"	"<table><tr><td>Canadian Hydrokinetic Turbine Test Centre<br />CHTTC</td><td></td></table>"
+	"geometry"	"POINT (-10689565.42291489 6467778.2148857)"
+
+Bathymetry
+	"Band 1"	"271"
+

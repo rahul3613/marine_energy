@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"University of New Hampshire Center for Ocen Renewable Energy"
+	"Short_Name"	"UNH-CORE"
+	"Facility_Type"	"test site"
+	"Sea"	"Atlantic Ocean"
+	"Continent"	"North America"
+	"Country"	"USA"
+	"Region"	"off Portsmouth, New Hampshire"
+	"Latitude"	"43.072"
+	"Longitude"	"-70.711"
+	"Estimated_Commissioning"	""
+	"Website"	"http://www.unh.edu/core/"
+	"Capacity"	"Nursery site for marine current turbines, wave&wind energy test site"
+	"Major_Projects"	""
+	"Image"	"<img src=""img/representative/UNH-CORE.jpg" />(<a href="http://www.unh.edu/core/" target="_blank">source</a>)"
+	"tooltip"	"<table><tr><td>University of New Hampshire Center for Ocean Renewable Energy<br/><br/></td><td><img src=""img/logos/UNH-CORE.png"/></td><tr><td colspan="2"><img src="img/representative/UNH-CORE.jpg"/></td></tr></table>"
+	"geometry"	"POINT (-7871512.51348317 5322937.41015604)"
+
+Bathymetry
+	"Band 1"	"-8.99679"
+

@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Sines Harbour"
+	"Short_Name"	"Sines"
+	"Facility_Type"	"test site"
+	"Sea"	"Atlantic Ocean"
+	"Continent"	"Europe"
+	"Country"	"Portugal"
+	"Region"	"near the town of Sines"
+	"Latitude"	"37.946"
+	"Longitude"	"-8.87"
+	"Estimated_Commissioning"	""
+	"Website"	"http://teamwork.nl/2017/10/30/signs-loi-in-portugal/"
+	"Capacity"	""
+	"Major_Projects"	""
+	"Image"	""
+	"tooltip"	"Sines"
+	"geometry"	"POINT (-987403.88333634 4571800.23000291)"
+
+Bathymetry
+	"Band 1"	"-8.77908"
+

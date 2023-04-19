@@ -1,0 +1,21 @@
+Marine energy testing facilities
+	"Test_Facility"	"Harris Wave Demonstration Zone"
+	"Short_Name"	"Harris Wave Demonstration Zone"
+	"Facility_Type"	"demo zone"
+	"Sea"	"Atlantic Ocean"
+	"Continent"	"Europe"
+	"Country"	"United Kingdom"
+	"Region"	"off Harris Island"
+	"Latitude"	"57.871"
+	"Longitude"	"-7.337"
+	"Estimated_Commissioning"	""
+	"Website"	""
+	"Capacity"	""
+	"Major_Projects"	""
+	"Image"	""
+	"tooltip"	"Harris Wave Demonstration Zone"
+	"geometry"	"POINT (-816751.10395025 7940267.34341497)"
+
+Bathymetry
+	"Band 1"	"-30.8349"
+
